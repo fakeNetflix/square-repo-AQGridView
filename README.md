@@ -1,0 +1,1 @@
+Square is no longer maintaining our fork of AQGridView. Please use [AlanQuatermain's AQGridView](https://github.com/AlanQuatermain/AQGridView).
